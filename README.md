@@ -16,11 +16,12 @@
 <a href="https://www.instagram.com/errabi_ayoub/?locale=en_us" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/errabi_ayoub/?locale=en_us" height="30" width="40" /></a>
 </p>
 <div>
-  <h3 align="left">Certificates :</h3>
+  <h3 align="left">Badges :</h3>
   <img src="https://github.com/e2rabi/e2rabi/assets/16072199/66ad2753-13a7-4f91-b722-8b420ed792cc"/>
   <img src="https://github.com/e2rabi/e2rabi/assets/16072199/f59ed4b2-26fa-4c15-8ce7-81f4f1326b40"/>
   <img src="https://github.com/e2rabi/e2rabi/assets/16072199/45b1fddc-646a-4b5f-9916-c921e4b905cd"/>
-  <img src="https://github.com/e2rabi/e2rabi/assets/16072199/5cebf64b-1349-47e6-a873-bd93a7636d65"/>
+  <img src="https://github.com/e2rabi/e2rabi/assets/16072199/5cebf64b-1349-47e6-a873-bd93a7636d65"/><br>
+  <a href="https://www.credly.com/users/ayoub-errabi/badges">Verify achievements </a>
 </div>
 
 <h3 align="left">Languages and Tools:</h3>
