@@ -20,7 +20,9 @@
   <img src="https://github.com/e2rabi/e2rabi/assets/16072199/66ad2753-13a7-4f91-b722-8b420ed792cc"/>
   <img src="https://github.com/e2rabi/e2rabi/assets/16072199/f59ed4b2-26fa-4c15-8ce7-81f4f1326b40"/>
   <img src="https://github.com/e2rabi/e2rabi/assets/16072199/45b1fddc-646a-4b5f-9916-c921e4b905cd"/>
-  <img src="https://github.com/e2rabi/e2rabi/assets/16072199/5cebf64b-1349-47e6-a873-bd93a7636d65"/><br>
+  <img src="https://github.com/e2rabi/e2rabi/assets/16072199/5cebf64b-1349-47e6-a873-bd93a7636d65"/>
+    <img src="https://github.com/user-attachments/assets/e8906da3-f093-4502-babd-a234c3d54c85"/>
+  <br>
   <a href="https://www.credly.com/users/ayoub-errabi/badges">Verify achievements </a>
 </div>
 
